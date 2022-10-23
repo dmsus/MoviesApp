@@ -1,0 +1,16 @@
+---
+1: !ruby/object:Movie
+  title: dmb
+  director: john due
+  year: '1998'
+  id: 1
+2: !ruby/object:Movie
+  title: dmb
+  director: zonal
+  year: '1998'
+  id: 2
+3: !ruby/object:Movie
+  title: Avatar
+  director: Cameron
+  year: '2009'
+  id: 3
